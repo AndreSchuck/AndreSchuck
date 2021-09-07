@@ -37,6 +37,6 @@
 <div>
   <h3>⚡ GitHub Stats:</h3>
     <a href="https://github.com/schuckfandre">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schuckfandre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreSchuck&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
  
