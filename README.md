@@ -1,6 +1,6 @@
 <h3> Hi there, I'm a production engineer delving into programming and IT</h3>
  
-- 🌱 I’m currently studying networking and data engeneering.
+- 🌱 I’m currently studying LLMs and Machine Learning.
   
 <br>
 
